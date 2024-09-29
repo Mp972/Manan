@@ -1,0 +1,2 @@
+# Manan
+Miner duino coin
